@@ -72,6 +72,13 @@ there is others options
 * `placeholder`: the placeholder of inserted place of layout,default: `{{__content__}}`
 * `decorator`: the layout syntax, default: `layout`.
 
-## learn link
+## Learn link
 
 [学习链接](https://segmentfault.com/a/1190000011524373)
+
+## Other
+
+[如何构建自己的webpack plugin](https://www.jianshu.com/p/f1df9cbf77ff)
+
+
+
